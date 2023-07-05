@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is a chat application, that allows users to talk to each other about any topic that they want like a sports team, actors or movies. They can also follow that chat room.
 
 #### What is the name of your application?
 
-> APP NAME
+> ChatterBox
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,25 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a user, I want to be able to create a new chatroom so that I can have dedicated conversations for different topics.
+
+> As a user, I want to be able to search for a group chat based on a topic.
+
+> As a user, I want to be able to see if other participants in a chatroom are currently typing a message, so I know when someone is actively engaged in the conversation.
+
+> As a user, I want to be able to create a private chat with with another user.
+
+> As a user, I want to see the number of followers in a chat room that I created.
+
+> As a user, I want to receive notifications when there are new messages in a chatroom so that I don't miss any important updates.
+
+> As a user, I want to be able to moderate a chatroom by deleting or reporting inappropriate messages
+
+> As a user, I want to be able to view the list of participants in a chatroom so that I know who is currently active.
+
+> As a user, I want to be able to view the chatroom history to catch up on previous conversations.
+
+> As a user, I want to be able to switch between different chatrooms easily without losing my current chat context.
 
 #### Create a new board
 

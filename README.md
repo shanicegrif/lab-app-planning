@@ -56,7 +56,7 @@ Write the user stories below. Add more `>` for each user story or use `-` to mak
 
 > As a user, I want to receive notifications when there are new messages in a chatroom so that I don't miss any important updates.
 
-> As a user, I want to be able to moderate a chatroom by deleting or reporting inappropriate messages
+> As a user, I want to be able to moderate a chatroom by deleting or reporting inappropriate messages.
 
 > As a user, I want to be able to view the list of participants in a chatroom so that I know who is currently active.
 
@@ -86,7 +86,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Doing card](https://trello.com/c/AVUhlTvR)
 
 #### Create one bug card.
 
@@ -104,7 +104,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/cxMkDSiA)
 
 #### Create one chore card
 
@@ -115,7 +115,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/LHym4SHp)
 
 ### Wireframes
 
